@@ -1,0 +1,7 @@
+//**Select the Embedded System before writing code:  Tools>Board>myEmbeddedSystemOfAwesomeness
+
+//**Sketch = Source Code for Arduinos    //**Standard Serial Rate = 9600
+
+//**Using Sensors = MUST include Library for that particular sensor ===== Sketch>Include Library> mySensorOfAwesomeness
+
+//**0 <= Analog Values <= 255    //**0 <= Digital Values <= 1023
