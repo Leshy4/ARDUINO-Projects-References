@@ -1,7 +1,7 @@
 
 // COMPILE: Ctrl+R, UPLOAD: Ctrl+U, FILE>EXAMPLES>(Lots of Awesome Examples & Types!!!) 
 
-//**MUST Select the Embedded System before writing code:  Tools>Board>myEmbeddedSystemOfAwesomeness             //Upload Sketch to Arduino to see Sensor Results.
+//**MUST Select the Embedded System before writing code:  Tools>Board>myEmbeddedSystemOfAwesomeness                                                                                     //Upload Sketch to Arduino for Sensor Results.
 
 //~~~~~~~~~~~~~~~~~~~~~~~~ GENERAL ARDUINO SKETCHES: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 
@@ -18,5 +18,3 @@
 // void loop() {    //<- LIKE MAIN() (Continuously loops, can use delays)
 
     // myCode...} // MAYBE: analogWrite(destination,source) || analogRead(source) || Serial.println("");
-
-
