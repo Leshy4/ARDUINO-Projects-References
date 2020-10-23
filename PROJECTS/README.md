@@ -1,7 +1,7 @@
 
 // COMPILE: Ctrl+R, UPLOAD: Ctrl+U, FILE>EXAMPLES>(Lots of Awesome Examples & Types!!!) 
 
-//**MUST Select the Embedded System before writing code:  Tools>Board>myEmbeddedSystemOfAwesomeness
+//**MUST Select the Embedded System before writing code:  Tools>Board>myEmbeddedSystemOfAwesomeness             //Upload Sketch to Arduino to see Sensor Results.
 
 //~~~~~~~~~~~~~~~~~~~~~~~~ GENERAL ARDUINO SKETCHES: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 
